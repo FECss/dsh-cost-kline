@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Cost K-Line",
+    "description": "Shows what your DSH sessions cost in real time as a stock-style candlestick chart: spend rate per interval, running total, and token usage."
+  }
+}
